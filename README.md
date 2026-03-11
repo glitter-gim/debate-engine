@@ -208,7 +208,7 @@ Feedback is welcome, especially regarding:
 ## Links
 
 **Website**  
-[Glitter.im](https://djangoproto8.glitter.im)
+[Glitter.im](https://djangoproto8.glitter.kr)
 
 **Repository**  
 [Debate Engine](https://github.com/glitter-node/debate-engine)
