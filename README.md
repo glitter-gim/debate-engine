@@ -2,8 +2,6 @@
 
 **Debate Domain Prototype for Structured Debate Engine**
 
-Project site: https://glitter.im
-
 Glitter is a prototype exploring **debate-domain modeling** for structured discussion systems.
 
 Instead of representing discussions as flat comment threads, this project models debates as **explicit domain entities with moderation and policy logic built into the model**.
@@ -210,10 +208,10 @@ Feedback is welcome, especially regarding:
 ## Links
 
 **Website**  
-https://glitter.im
+[Glitter.im](https://djangoproto8.glitter.im)
 
 **Repository**  
-https://github.com/glitter-node/debate-engine
+[Debate Engine](https://github.com/glitter-node/debate-engine)
 
 ---
 
